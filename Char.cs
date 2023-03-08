@@ -56,10 +56,3 @@ public class Char : MonoBehaviour
         }
     }
 }
-
-
-
-/*
-InputPersonagem();
-transform.Translate(direcao * velocidade * Time.deltaTime);
-*/
